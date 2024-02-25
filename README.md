@@ -25,3 +25,11 @@
 <li>Wp Mail SMTP</li>
 <li>YITH WooCommerce Wishlist</li>
 </ul>
+
+- 1st item
+- 2nd item
+- 3rd item
+
+1. 1st
+2. 2nd
+3. 3rd
