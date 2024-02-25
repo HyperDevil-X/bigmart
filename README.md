@@ -1,6 +1,6 @@
 <h1 align ="center">Bigmart</h1>
 <img src="bigmart.PNG">
- <h3 style="text-align:center;"><b>Ecommerce Website using Wordpress</b></h3>
+ <h3  align ="center"><b>Ecommerce Website using Wordpress</b></h3>
  <br>
 <p>It is an E-commerce website which  is developed on the WordPress(CMS) platform. It includes  various functionalities such as user Home page, About us page, Contact Page, Blog Page, Cart Page, Checkout Page, Whishlist Page, Registration page, Login page and also have a Payment gateway. MySql(PhpmyAdmin) database used in this website which runs on WAMP localserver.</p>
 <ul>
