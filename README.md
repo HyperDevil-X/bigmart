@@ -1,12 +1,11 @@
-<h1 text-align="center"><b>Bigmart</b></h1>
+<h1 style="text-align:center;"><b>Bigmart</b></h1>
 <img src="bigmart.PNG">
- <h3  text-align="center"><b>Ecommerce Website using Wordpress</b></h3>
+ <h3 style="text-align:center;"><b>Ecommerce Website using Wordpress</b></h3>
  <br>
 <p>It is an E-commerce website which  is developed on the WordPress(CMS) platform. It includes  various functionalities such as user Home page, About us page, Contact Page, Blog Page, Cart Page, Checkout Page, Whishlist Page, Registration page, Login page and also have a Payment gateway. MySql(PhpmyAdmin) database used in this website which runs on WAMP localserver.</p>
 <ul>
 <h2><b>Theme Used<b></h2>
-<li>Woostify
-<p>It is a free theme</p>
+<li>Woostify &nbsp;<p>(It is a free theme)</p>
 </li>
 </ul>
 <ul>
