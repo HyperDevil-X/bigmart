@@ -1,4 +1,4 @@
-<h1 style="text-align:center;"><b>Bigmart</b></h1>
+<h1><b><center>Bigmart</center></b></h1>
 <img src="bigmart.PNG">
  <h3 style="text-align:center;"><b>Ecommerce Website using Wordpress</b></h3>
  <br>
